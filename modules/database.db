@@ -1,0 +1,1 @@
+{"hi there": {"created_at": {"$date": 1488736991336}, "extra_data": {}, "in_response_to": [{"text": "hi there", "occurrence": 4}]}, "Greetings!": {"created_at": {"$date": 1488737066710}, "extra_data": {}, "in_response_to": [{"text": "hi there", "occurrence": 22}]}}
